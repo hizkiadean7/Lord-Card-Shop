@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Navbar.Master.cs" Inherits="LOrdCardShop.Views.Navbar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <h1>LOrd Card Shop</h1>
+            <asp:Panel ID="CustomerNav" runat="server" Visible="false">
+                <a href="HomePage.aspx">Home</a> |
+                <asp:HyperLink ID="OrderCardLink" runat="server" Text="Order Card" /> |
+                <a href="ProfilePage.aspx">Profile</a> |
+                <a href="TransactionHistoryPage.aspx">History</a> |
+                <asp:HyperLink ID="CartPageLink" runat="server" Text="Cart"/> |
+                <a href="Logout.aspx">Logout</a>
+            </asp:Panel>
+
+            <asp:Panel ID="AdminNav" runat="server" Visible="false">
+                <a href="HomePage.aspx">Home</a> |
+                <a href="ManageCardPage.aspx">Manage Card</a> |
+                <a href="TransactionReportPage.aspx">Transaction Report</a> |
+                <a href="TransactionHistoryPage.aspx" onclick="">View Transaction History</a> |
+                <a href="HandleTransactionPage.aspx">Handle Transaction</a> |
+                <a href="Logout.aspx">Logout</a>
+            </asp:Panel>
+
+            <asp:Panel ID="GuestNav" runat="server" Visible="false">
+                <a href="LoginPage.aspx">Login</a> |
+                <a href="RegisterPage.aspx">Register</a>
+            </asp:Panel>
+
+            <asp:Label ID="RoleLbl" runat="server"></asp:Label><br />
+            <asp:TextBox ID="SearchBox" runat="server" Placeholder="Search card name..." />
+            <asp:Button ID="SearchBtn" runat="server" Text="Search" OnClick="SearchBtn_Click" />
+            <hr />
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+    </form>
+</body>
+</html>
