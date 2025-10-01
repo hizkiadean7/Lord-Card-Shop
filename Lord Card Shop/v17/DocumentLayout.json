@@ -1,0 +1,833 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\ordercardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\ordercardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\ordercardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\ordercardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\managecardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\managecardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\handler\\cardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\handler\\cardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\managecardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\managecardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\carddetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\carddetailpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\carddetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\carddetailpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\cartpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\cartpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\cartpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\cartpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\reporting\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\reporting\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\transactionreportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\transactionreportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\controller\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\controller\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\factory\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\factory\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\handler\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\handler\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|c:\\users\\dinamika metalindo\\downloads\\lord card shop\\lord card shop\\lord card shop\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\detailtransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\detailtransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\transactionhistorypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\transactionhistorypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\transactionreportpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\transactionreportpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\handletransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\handletransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\handletransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\handletransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\editcardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\editcardpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\checkoutpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\checkoutpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\detailtransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\detailtransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\dataset\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\dataset\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DINAMIKA_METALINDO_DOWNLOADS_LORD_CARD_SHOP_LORD_CARD_SHOP_LORD_CARD_SHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionDetail.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DINAMIKA_METALINDO_DOWNLOADS_LORD_CARD_SHOP_LORD_CARD_SHOP_LORD_CARD_SHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionHeader.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\addcardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\addcardpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\checkoutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\checkoutpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\models\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\repository\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\views\\transactionreportpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\views\\transactionreportpage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\lord card shop\\reporting\\crystalreport11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73E3B6E-39D8-416A-AFF2-94C3D7CEFCB9}|Lord Card Shop\\Lord Card Shop.csproj|solutionrelative:lord card shop\\reporting\\crystalreport11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\TransactionHandler.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Handler\\TransactionHandler.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\TransactionHandler.cs",
+              "RelativeToolTip": "Lord Card Shop\\Handler\\TransactionHandler.cs",
+              "ViewState": "AgIAAAMAAACAZmZmZmYkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:28:14.55Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Repository\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "Lord Card Shop\\Repository\\TransactionRepository.cs",
+              "ViewState": "AgIAABwAAAAAOjMzMzPjvy8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:08:55.268Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HomePage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T21:06:17.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Navbar.Master.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\Navbar.Master.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\Navbar.Master.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\Navbar.Master.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\Navbar.Master.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAMwDoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:26:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderCardPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\OrderCardPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\OrderCardPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\OrderCardPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\OrderCardPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T17:29:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageCardPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ManageCardPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\ManageCardPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ManageCardPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\ManageCardPage.aspx.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:28:34.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderCardPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\OrderCardPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\OrderCardPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\OrderCardPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\OrderCardPage.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:44:07.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\CardHandler.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Handler\\CardHandler.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\CardHandler.cs",
+              "RelativeToolTip": "Lord Card Shop\\Handler\\CardHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:45:24.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Navbar.Master",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\Navbar.Master",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\Navbar.Master",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\Navbar.Master",
+              "RelativeToolTip": "Lord Card Shop\\Views\\Navbar.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T14:34:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HomePage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\HomePage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:11:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageCardPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ManageCardPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\ManageCardPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ManageCardPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\ManageCardPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T13:48:48.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\LoginPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\LoginPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:41:09.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardDetailPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CardDetailPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\CardDetailPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CardDetailPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\CardDetailPage.aspx.cs",
+              "ViewState": "AgIAAAoAAABAMzMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:17:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\LoginPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T13:32:58.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardDetailPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CardDetailPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\CardDetailPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CardDetailPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\CardDetailPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T14:52:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CartPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\CartPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CartPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\CartPage.aspx.cs",
+              "ViewState": "AgIAABEAAAAAzszMzMz0vyMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:01:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CartPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\CartPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CartPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\CartPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T14:01:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Reporting\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Reporting\\CrystalReport1.rpt",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Reporting\\CrystalReport1.rpt",
+              "RelativeToolTip": "Lord Card Shop\\Reporting\\CrystalReport1.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAiZSURBVFhH3ZdbbFzFGcd/M3Nue/bqXTu2k5CbcyFOMAFKLuWWQEGBJFwLtGoraPtQhEqlUokH1EfEA6r6QoX6UEGfqCpViEoltFSCgFSStEmcxJCLIbFzsxN7411vvJezZ8\u002BZPuzasTd2LupDq/6lT2f2G52Z3858831z4H9JWutm139dotkxqdvv2HDPSy\u002B/\u002Bnqz/0ZUqwX\u002B4UMH9rz569debe6bS3MCbXlg6\u002BNv/vb373W2xZu7rlvjhXJwsK9/eOcH7//pd2\u002B98XJz/2xSzY5JLV22/OZHH3vy2YXtSSK2eU1zpszAtg0c0yAItPQDmehcuHiV5bjJ/qOH99ZqNb95rum6KtD2R594NpNym7tmlwbN5ZjUaHw/wKsG2I4dWb5q7YZSqVw\u002Bd2bwuFcpl2a8O02y2XGj0nrycNRNa9Bh/WkYkqhrkYg6ZFJx68cv/Py1\u002Bx/a8f2WdGtH8ziT\u002Bo\u002BAdJ1mql3nakBpUEoRdS2irkMi7pKOu/KFn77yq83f2vadZCrd2jweN75lGq1FYzWmPPXn1Eo12oAQICVIJEoKTFOiEWLNuvX3FsbHcye/Onq4OaZuEIipg6mnHdHp2WyqrTVCgGEqlJJICUJKbEuBFsbK7nX3aSHUoQN7P572\u002Bo1t2YyJNYRhY8emr054uV3xfLLZCXL5IsVilZofoIQgk3JFMu5aShnmtCHheoHqgTpJpAknnYRodD1\u002BgLBBrLUm1BolJa5rEXXtukVtYjGbtkwM17XEbHnwuoDqkVIP1rAx82Sc6BACHZKv5Xn7/DvsHN3Jee8Coa5vkaEkhiExDIGhJEopLMvAULNPPbu3SWEjx9RPUv3fazShhpCQSlhlv9fLrsKnvDP0Nh\u002BOfMhweYgwDKf\u002BRNjY1mvVT9nR8\u002BTWjlseX9\u002BxZseKju5tSTez7ErIqThpxMfk71BTDioM\u002BIOcrA0igN5CL\u002B8OvcvfRv/K\u002BfL5OvwV1jzBZRnP/OT1n42NVway\u002BfKFUqV6eqjvL0PZE5\u002BOOemuhZ4fQGPDmEx61IG01pS1x7naEMdr/SRVgriMY2Cw/9I\u002BAh2gQ8HW1ofJWJn6OFNpa24i48WtyWzfKbd130lvw7lsZXky9ky52LP9eKrF4PiZIon4BLYpcSMKWykQEGpNRZc5VxvmWHAMW5qkZYqkSqBEPZMcnOilGlYRWrK9bTtxM14/lZPnYQ6pm7/xSN\u002ByTldsXOV2bFodb52fcaOlwFp4alQv33s0x0d7zzKaK2EqRdRRKCXwtMdgbZC\u002B2pcYwiBtpmmVaQaKgxwpfMG4XwBg1B/lq1I/GdVGV2QFEoHWYNsGY\u002BNFdu/e/fnB/bv/PgPokSeeq46OFU6fHhrbUyyW9sxrkRO3LnPbu\u002BZH0r62OZtXnBwu8VnvEL39o4xemuCUdYwB\u002BygISMkkGZkmbaQZKJzg4PhB8n5\u002BaoLxoEBf8RCtso0lkS4MUb8NzAnU\u002B8/P/J477i5allPwvFo2XygOeBXveDomg\u002BWdzurWpMPFsqJYNclP\u002BJwunmNQ7WPEOEKhmmc8zJEly6ga5Xx5mL6v\u002B8gN5dBjGp0N0SMh3ohHrpjj/s4HsZWNY5vkxkuzA01cynNmoF/v37urlmppqyRb2nJe1R8Rgnhbi/vQ/IxJKiYp\u002BybFqqJYkuQvTXDRP82I1c8oIwzLYc5YZzh26igDhwcoD5bQ5zXhUIg1arJUL\u002Bd73T9iUXwJprJwIxb5whxAAGPZC2RHhsiNjYQnv/rSr5TL5cVLVyzoaEs91Z6O4JoBliHIlxXFikm1aFEtairGGLVMFt/2qTpVRs5cIHski3\u002BhChNgezYrEt08tfa73DF/I47pYFom8ahNvlCeFWhGzuk/0svnuz7Quz56zzu07zPPsU2ScYd0zGL1AsmyToNU3MYS8zDyPaiTGwnP3XS5AARAFbSnsbXDzfPWsO3WJ7iz65tYlo1S8spa0aQrkyAweOIo\u002B/d8og2lcCM2MdemJaZY0S5JRQ2EGcGgHTXag/7yTsKLaQQSaqCrGjt0WNXWzUNrH\u002BWulZuJulGiEQfbtlBKzVbCpjQr0KSEANOQ2I6JbZksSgtiEQnCRFouhmhHjPTg995GMB5H\u002BwIrsFjRupqttzzG3au2EI1EiboRolEXyzIRYm4YrgUEIIRAKYFlmcQigkREY5oSlImyoijdSa3vHrwDa3HKabrSq3jstmfYtHIzUcfFdSPEoi62ZSGlunYta3bMJqFBSYEQEkNqDAUIA2HamE4Mx2ml8smDbPJ38MLGX7C\u002B6y5ikSixaHQKRiAada159Jm6LqDJMaoB5EpQrIKQCmlYRFybZDJKJpPk3oVbWJpeQiIWJ\u002BrWV8cyTUBcpXrN1HUBBYGm5gccG/a5WASpDCzbIuFatCYs2tMu65YnaE\u002B3kEokSSTiRN0IlmUipZwszeiwcXW5yjJdEygM699XJ0eqHDglyHkOUTdKJumwoNVifsZkUavBfWsc0jEb140QiThYtoUUcurKEob1m\u002BZVWOBaQKHWlL2AL85W\u002BccJgwvlBIl4gsXtEbraTRbPUyybp1i/TLK0VWObAsMwMJRCNLYp1Hrqnq3Dhl0FagbQ2nUbeeDhp8UDO56Lr7xzW\u002BZsXtJ7Go6NOEyEMRbOi9F9U4TuBYruTs3qzpCem6BnsSIdN0jEbBIxh2Q8QjLuNCxCMhEhNWnJCKY558fOzM\u002BgbU8\u002BL7Zs/baxbsP9Hat6NtxdDcTmfEVhGZKFLbAkE7KoJaAjHpBxPVJ2hYTlIXSNIAjxayF\u002BLcCvBdSC8AoLwrqVKlWyuQn27/vXFaVjRpb64Yu/FLdv2GxlUrH5nfOSDwspn7dMhQChNQiBVkpojQg9rxZOlDydHy/oM4NfTx/muvXpxzv/sPPPf3xrum8G0NM/eIlbbtukAAtwGs/puV4DNcADKkB15PxZ/Zs3Xpk\u002BzP\u002BX/g2bsf38EUXhGAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-27T13:18:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TransactionReportPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionReportPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\TransactionReportPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionReportPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\TransactionReportPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T13:19:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\RegisterPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\RegisterPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T13:43:51.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Controller\\CardController.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Controller\\CardController.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Controller\\CardController.cs",
+              "RelativeToolTip": "Lord Card Shop\\Controller\\CardController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:31:11.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Factory\\TransactionFactory.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Factory\\TransactionFactory.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Factory\\TransactionFactory.cs",
+              "RelativeToolTip": "Lord Card Shop\\Factory\\TransactionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:03:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\CartHandler.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Handler\\CartHandler.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\CartHandler.cs",
+              "RelativeToolTip": "Lord Card Shop\\Handler\\CartHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:06:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Controller\\CartController.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Controller\\CartController.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Controller\\CartController.cs",
+              "RelativeToolTip": "Lord Card Shop\\Controller\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:32:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Lord Card Shop\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:33:11.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Handler\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Handler\\UserHandler.cs",
+              "RelativeToolTip": "Lord Card Shop\\Handler\\UserHandler.cs",
+              "ViewState": "AgIAAAsAAAAANDMzMzMbwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:51:14.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Controller\\UserController.cs",
+              "RelativeToolTip": "Lord Card Shop\\Controller\\UserController.cs",
+              "ViewState": "AgIAAJ8AAAAAmJmZmZknwLoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:15:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransactionHistoryPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionHistoryPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\TransactionHistoryPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionHistoryPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\TransactionHistoryPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T14:55:10.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DetailTransactionPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\DetailTransactionPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\DetailTransactionPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\DetailTransactionPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\DetailTransactionPage.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T16:33:28.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionReportPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionReportPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\TransactionReportPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionReportPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\TransactionReportPage.aspx.cs",
+              "ViewState": "AgIAAAMAAACAZmZmZmYkwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:19:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HandleTransactionPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HandleTransactionPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\HandleTransactionPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HandleTransactionPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\HandleTransactionPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T17:31:43.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HandleTransactionPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HandleTransactionPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\HandleTransactionPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\HandleTransactionPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\HandleTransactionPage.aspx.cs",
+              "ViewState": "AgIAABoAAACAmZmZmZkmwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:38:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditCardPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\EditCardPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\EditCardPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\EditCardPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\EditCardPage.aspx.cs",
+              "ViewState": "AgIAAAkAAABAZmZmZmYkwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:45:07.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CheckOutPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CheckOutPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\CheckOutPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CheckOutPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\CheckOutPage.aspx.cs",
+              "ViewState": "AgIAABQAAAAAmpmZmZkVwCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:31:06.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DetailTransactionPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\DetailTransactionPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\DetailTransactionPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\DetailTransactionPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\DetailTransactionPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T16:27:11.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Dataset\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Dataset\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Dataset\\DataSet1.xsd",
+              "RelativeToolTip": "Lord Card Shop\\Dataset\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-27T13:25:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.TransactionDetail.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DINAMIKA_METALINDO_DOWNLOADS_LORD_CARD_SHOP_LORD_CARD_SHOP_LORD_CARD_SHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionDetail.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DINAMIKA_METALINDO_DOWNLOADS_LORD_CARD_SHOP_LORD_CARD_SHOP_LORD_CARD_SHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionDetail.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T16:17:00.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.TransactionHeader.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DINAMIKA_METALINDO_DOWNLOADS_LORD_CARD_SHOP_LORD_CARD_SHOP_LORD_CARD_SHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionHeader.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_DINAMIKA_METALINDO_DOWNLOADS_LORD_CARD_SHOP_LORD_CARD_SHOP_LORD_CARD_SHOP_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionHeader.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-27T16:16:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Web.config",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Web.config",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Web.config",
+              "RelativeToolTip": "Lord Card Shop\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-27T14:42:57.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddCardPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\AddCardPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\AddCardPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\AddCardPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\AddCardPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T13:44:12.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CheckOutPage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CheckOutPage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\CheckOutPage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\CheckOutPage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\CheckOutPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T14:00:49.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Lord Card Shop\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:33:33.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Models\\Model.edmx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Models\\Model.edmx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Models\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "Lord Card Shop\\Models\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-27T13:15:58.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProfilePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ProfilePage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\ProfilePage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ProfilePage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\ProfilePage.aspx.cs",
+              "ViewState": "AgIAABQAAABAMzMzMzMvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:51:09.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProfilePage.aspx",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ProfilePage.aspx",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\ProfilePage.aspx",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\ProfilePage.aspx",
+              "RelativeToolTip": "Lord Card Shop\\Views\\ProfilePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-27T13:51:05.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\CardRepository.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Repository\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Repository\\CardRepository.cs",
+              "RelativeToolTip": "Lord Card Shop\\Repository\\CardRepository.cs",
+              "ViewState": "AgIAABsAAACAmZmZmZkVwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:33:43.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\RegisterPage.aspx.cs",
+              "ViewState": "AgIAABQAAADAmZmZmZkVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:43:56.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TransactionReportPage.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionReportPage.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Views\\TransactionReportPage.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Views\\TransactionReportPage.aspx.designer.cs",
+              "RelativeToolTip": "Lord Card Shop\\Views\\TransactionReportPage.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:33:53.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CrystalReport11.cs",
+              "DocumentMoniker": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Reporting\\CrystalReport11.cs",
+              "RelativeDocumentMoniker": "Lord Card Shop\\Reporting\\CrystalReport11.cs",
+              "ToolTip": "C:\\Users\\dinamika metalindo\\Downloads\\Lord Card Shop\\Lord Card Shop\\Lord Card Shop\\Reporting\\CrystalReport11.cs",
+              "RelativeToolTip": "Lord Card Shop\\Reporting\\CrystalReport11.cs",
+              "ViewState": "AgIAAA0AAAAAMzMzMzMLwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T13:18:53.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
